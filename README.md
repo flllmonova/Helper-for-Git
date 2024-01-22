@@ -45,4 +45,4 @@ Now, SSH-key is linked with GitHub. To check it, write command `ssh -T git@githu
 ## Congradilations!
 Remote and local repositories are linked with each other.<br>
 Now you can share your project with the world!
-> To do this, write following command - `git push -u origin` for the first sending, to the next ones use `git push`.
+> To do this, write following command - `git push -u origin main` for the first sending, to the next ones use `git push`.
